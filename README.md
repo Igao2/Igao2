@@ -1,11 +1,11 @@
-### Hi there 👋
 
-<!--
-**Igao2/Igao2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Sobre Mim</h3>
+Igor,21 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC-CRUZEIRO. 
+Também estagio na Secretaria Municipal de Educação de Cruzeiro,SP
 
 <div>
 <a href="https://github.com/Igao2">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igao2&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igao2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
--->
+
