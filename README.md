@@ -3,6 +3,11 @@
 Igor,21 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC-CRUZEIRO. 
 Também estagio na Secretaria Municipal de Educação de Cruzeiro,SP
 
+<h3>Conhecimentos:</h3>
+
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> ;
+          
+
 <div>
 <a href="https://github.com/Igao2">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igao2&layout=compact&langs_count=7&theme=dark"/>
