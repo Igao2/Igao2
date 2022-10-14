@@ -1,7 +1,7 @@
 
 <h3> Sobre Mim</h3>
-Igor,21 anos. 
-Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC-CRUZEIRO. 
+Igor,21 anos.<br>
+Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC-CRUZEIRO.<br>
 Faço estágio na Secretaria Municipal de Educação de Cruzeiro,SP
 
 <h3>Conhecimentos:</h3>
