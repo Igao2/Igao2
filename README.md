@@ -25,7 +25,7 @@ Faço estágio na Secretaria Municipal de Educação de Cruzeiro,SP
 <div>
 <a href="https://github.com/Igao2">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igao2&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igao2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igao2">
 </div>
 </div>
 
