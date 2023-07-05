@@ -1,6 +1,8 @@
 
 <h3> Sobre Mim</h3>
-Igor,21 anos.<br>
+<div class = "idade">
+Igor, 22 anos.       
+</div><br>
 Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC-CRUZEIRO.<br>
 Faço estágio na Secretaria Municipal de Educação de Cruzeiro,SP
 
@@ -39,3 +41,5 @@ Faço estágio na Secretaria Municipal de Educação de Cruzeiro,SP
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21kuzk763oikfp25wjseag2wi&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21kuzk763oikfp25wjseag2wi&redirect=true)
 </div>
+
+
