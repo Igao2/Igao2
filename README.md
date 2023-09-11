@@ -45,6 +45,6 @@ Faço estágio na Secretaria Municipal de Educação de Cruzeiro,SP
 </div>
 
 
-![snake gif](https://github.com/Igao2/Igao2/blob/output/github-contribution-grid-snake.svg)
+
 
 
