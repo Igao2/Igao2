@@ -17,12 +17,12 @@ Faço estágio na Secretaria Municipal de Educação de Cruzeiro,SP
 <img height = "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />;
 <img height = "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />;
 <img height = "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-          
+<img height ="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> ;          
           
 
 <h3>Aprendendo:</h3>
 
-<img height ="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> ;
+
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 
           
