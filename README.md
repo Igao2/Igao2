@@ -8,16 +8,15 @@ Faço estágio na Secretaria Municipal de Educação de Cruzeiro,SP
 
 <h3>Conhecimentos:</h3>
 
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> ;
-<img height ="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> ;
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> ;
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> ;
-<img height = "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> ;
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> ;
-<img height = "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />;
-<img height ="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> ; 
-<img height = "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />;
-<img height = "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![Node.JS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![HTML](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=orange)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=blue)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white)
     
           
 
