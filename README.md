@@ -9,7 +9,6 @@ Faço estágio na Secretaria Municipal de Educação de Cruzeiro,SP
 <h3>Conhecimentos:</h3>
 
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Node.JS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs&logoColor=green)<br>
