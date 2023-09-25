@@ -8,11 +8,11 @@ Faço estágio na Secretaria Municipal de Educação de Cruzeiro,SP
 
 <h3>Conhecimentos:</h3>
 
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp)
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp)<br>
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Node.JS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![Node.JS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs&logoColor=green)<br>
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=orange)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=green)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=blue)
