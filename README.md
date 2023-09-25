@@ -25,7 +25,7 @@ Faço estágio na Secretaria Municipal de Educação de Cruzeiro,SP
 <h3>Aprendendo:</h3>
 
 
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=purple)
 
           
           
