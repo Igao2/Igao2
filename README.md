@@ -3,8 +3,8 @@
 <div class = "idade">
 Igor, 22 anos.       
 </div><br>
-Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC-CRUZEIRO.<br>
-Faço estágio na Secretaria Municipal de Educação de Cruzeiro,SP
+Graduado em Análise e Desenvolvimento de Sistemas na FATEC-CRUZEIRO.<br>
+Atualmente atuo como Dev Junior Full Stack node.js e asp.net
 
 <h3>Conhecimentos:</h3>
 
