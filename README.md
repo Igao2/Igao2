@@ -1,7 +1,7 @@
 
 <h3> Sobre Mim</h3>
 <div class = "idade">
-Igor, 22 anos.       
+Igor, 24 anos.       
 </div><br>
 Graduado em Análise e Desenvolvimento de Sistemas na FATEC-CRUZEIRO.<br>
 Atualmente atuo como Dev Junior Full Stack node.js e asp.net
